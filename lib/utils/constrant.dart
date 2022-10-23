@@ -1,0 +1,9 @@
+const String weatherApiKey='add23394356f19aaaa6c6b9818c12958';
+const String celsius='C';
+const String fahrenheit='F';
+const String metric='metric';
+const String imperial='imperial';
+const String degree='\u00B0';
+const String iconPrefix = 'https://openweathermap.org/img/wn/';
+const String iconSuffix = '@2x.png';
+const List<String>cities=['Dhaka','Mymensingh','Bogora','Tangaile','Dinajpr','Rajshahi','Panchagar','Sylete','Kostia'];
